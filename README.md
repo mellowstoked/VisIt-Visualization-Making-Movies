@@ -1,4 +1,4 @@
-# VisIt-Visualization-Making-Movies
+# VisIt Visualization Making Movies
 To make movies in VisIt I needed a way to save windows after every rotation and zoom. This is a python script that searches through the movement code and pastes in a save window script after every movement. 
 
 How to use this script:
